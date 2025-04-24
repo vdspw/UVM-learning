@@ -11,7 +11,7 @@ initial begin
   
   $display("arr: %0p",arr);
   
-  arr = new[30](arr); //automatically removes the previous elements.
+  arr = new[30](arr); //automatically adds the previous elements.
   $display("arr: %0p",arr);
   
 end
