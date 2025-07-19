@@ -12,3 +12,5 @@ Has descriptions of UVM codes & system verilog basics
 10. Pass by Reference
 11. Classes
 12. Scope of the variables
+13. Shallow copy
+14. Deep copy
