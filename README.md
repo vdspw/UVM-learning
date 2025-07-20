@@ -14,3 +14,4 @@ Has descriptions of UVM codes & system verilog basics
 12. Scope of the variables
 13. Shallow copy
 14. Deep copy
+15. Inheritance
