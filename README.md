@@ -16,3 +16,4 @@ Has descriptions of UVM codes & system verilog basics
 14. Deep copy
 15. Inheritance
 16. Polymorphism
+17. Randomization 
