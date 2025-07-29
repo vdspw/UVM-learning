@@ -33,7 +33,7 @@ module tb;
     
     for(i=0;i<=10;i++)begin
       g = new(); // memory allocation for every randomly generated element.
-      g.randomize();
+      assert(g.randomize()) else $display("Randomization Failed");
       $display("Value of A : %0d :::::: Value of B : %0d",g.a,g.b);
       #10;
     end
