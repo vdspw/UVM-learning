@@ -18,3 +18,4 @@ Has descriptions of UVM codes & system verilog basics
 16. Polymorphism
 17. Randomization
 18. Inter Process Communication
+19. Interface for the DUT
