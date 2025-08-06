@@ -3,4 +3,4 @@ module adder (
   output [4:0] sum );
   
   assign sum = a+b;
-endmodu
+endmodule
